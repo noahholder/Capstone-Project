@@ -7,7 +7,7 @@ Project consists of performing reconnaissance, identifying targets and running s
 <h2>Perform Reconnaissance</h2>
 Introduction:
 The task at hand requires building a robust profile on the target, Artemis. This profile will include the target's technology stack, email addresses, phone numbers, resumes, and more. To accomplish this task, we will use various tools and methods to obtain publicly available information. In this deliverable, we will provide an overview of the tools and methods that will be used, and we will categorize them into passive and active tools.
-
+</b>
 
 Passive Tools:
 Passive tools are those that do not require any interaction with the target. These tools mainly rely on publicly available information. Below are some of the passive tools that we will use:
